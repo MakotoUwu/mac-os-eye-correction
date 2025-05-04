@@ -1,0 +1,546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		11F6AAFF2DC78B9E00022C28 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 11F6AAE82DC78B9D00022C28 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 11F6AAEF2DC78B9D00022C28;
+			remoteInfo = "mac-os-eye-correction";
+		};
+		11F6AB092DC78B9E00022C28 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 11F6AAE82DC78B9D00022C28 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 11F6AAEF2DC78B9D00022C28;
+			remoteInfo = "mac-os-eye-correction";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		11F6AAF02DC78B9D00022C28 /* mac-os-eye-correction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mac-os-eye-correction.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F6AAFE2DC78B9E00022C28 /* mac-os-eye-correctionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mac-os-eye-correctionTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F6AB082DC78B9E00022C28 /* mac-os-eye-correctionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mac-os-eye-correctionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		11F6AAF22DC78B9D00022C28 /* mac-os-eye-correction */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "mac-os-eye-correction";
+			sourceTree = "<group>";
+		};
+		11F6AB012DC78B9E00022C28 /* mac-os-eye-correctionTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "mac-os-eye-correctionTests";
+			sourceTree = "<group>";
+		};
+		11F6AB0B2DC78B9E00022C28 /* mac-os-eye-correctionUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "mac-os-eye-correctionUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		11F6AAED2DC78B9D00022C28 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F6AAFB2DC78B9E00022C28 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F6AB052DC78B9E00022C28 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		11F6AAE72DC78B9D00022C28 = {
+			isa = PBXGroup;
+			children = (
+				11F6AAF22DC78B9D00022C28 /* mac-os-eye-correction */,
+				11F6AB012DC78B9E00022C28 /* mac-os-eye-correctionTests */,
+				11F6AB0B2DC78B9E00022C28 /* mac-os-eye-correctionUITests */,
+				11F6AAF12DC78B9D00022C28 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		11F6AAF12DC78B9D00022C28 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				11F6AAF02DC78B9D00022C28 /* mac-os-eye-correction.app */,
+				11F6AAFE2DC78B9E00022C28 /* mac-os-eye-correctionTests.xctest */,
+				11F6AB082DC78B9E00022C28 /* mac-os-eye-correctionUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		11F6AAEF2DC78B9D00022C28 /* mac-os-eye-correction */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F6AB122DC78B9E00022C28 /* Build configuration list for PBXNativeTarget "mac-os-eye-correction" */;
+			buildPhases = (
+				11F6AAEC2DC78B9D00022C28 /* Sources */,
+				11F6AAED2DC78B9D00022C28 /* Frameworks */,
+				11F6AAEE2DC78B9D00022C28 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F6AAF22DC78B9D00022C28 /* mac-os-eye-correction */,
+			);
+			name = "mac-os-eye-correction";
+			packageProductDependencies = (
+			);
+			productName = "mac-os-eye-correction";
+			productReference = 11F6AAF02DC78B9D00022C28 /* mac-os-eye-correction.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F6AAFD2DC78B9E00022C28 /* mac-os-eye-correctionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F6AB152DC78B9E00022C28 /* Build configuration list for PBXNativeTarget "mac-os-eye-correctionTests" */;
+			buildPhases = (
+				11F6AAFA2DC78B9E00022C28 /* Sources */,
+				11F6AAFB2DC78B9E00022C28 /* Frameworks */,
+				11F6AAFC2DC78B9E00022C28 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				11F6AB002DC78B9E00022C28 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				11F6AB012DC78B9E00022C28 /* mac-os-eye-correctionTests */,
+			);
+			name = "mac-os-eye-correctionTests";
+			packageProductDependencies = (
+			);
+			productName = "mac-os-eye-correctionTests";
+			productReference = 11F6AAFE2DC78B9E00022C28 /* mac-os-eye-correctionTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		11F6AB072DC78B9E00022C28 /* mac-os-eye-correctionUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F6AB182DC78B9E00022C28 /* Build configuration list for PBXNativeTarget "mac-os-eye-correctionUITests" */;
+			buildPhases = (
+				11F6AB042DC78B9E00022C28 /* Sources */,
+				11F6AB052DC78B9E00022C28 /* Frameworks */,
+				11F6AB062DC78B9E00022C28 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				11F6AB0A2DC78B9E00022C28 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				11F6AB0B2DC78B9E00022C28 /* mac-os-eye-correctionUITests */,
+			);
+			name = "mac-os-eye-correctionUITests";
+			packageProductDependencies = (
+			);
+			productName = "mac-os-eye-correctionUITests";
+			productReference = 11F6AB082DC78B9E00022C28 /* mac-os-eye-correctionUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		11F6AAE82DC78B9D00022C28 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					11F6AAEF2DC78B9D00022C28 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					11F6AAFD2DC78B9E00022C28 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 11F6AAEF2DC78B9D00022C28;
+					};
+					11F6AB072DC78B9E00022C28 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 11F6AAEF2DC78B9D00022C28;
+					};
+				};
+			};
+			buildConfigurationList = 11F6AAEB2DC78B9D00022C28 /* Build configuration list for PBXProject "mac-os-eye-correction" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 11F6AAE72DC78B9D00022C28;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 11F6AAF12DC78B9D00022C28 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				11F6AAEF2DC78B9D00022C28 /* mac-os-eye-correction */,
+				11F6AAFD2DC78B9E00022C28 /* mac-os-eye-correctionTests */,
+				11F6AB072DC78B9E00022C28 /* mac-os-eye-correctionUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		11F6AAEE2DC78B9D00022C28 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F6AAFC2DC78B9E00022C28 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F6AB062DC78B9E00022C28 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		11F6AAEC2DC78B9D00022C28 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F6AAFA2DC78B9E00022C28 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F6AB042DC78B9E00022C28 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		11F6AB002DC78B9E00022C28 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 11F6AAEF2DC78B9D00022C28 /* mac-os-eye-correction */;
+			targetProxy = 11F6AAFF2DC78B9E00022C28 /* PBXContainerItemProxy */;
+		};
+		11F6AB0A2DC78B9E00022C28 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 11F6AAEF2DC78B9D00022C28 /* mac-os-eye-correction */;
+			targetProxy = 11F6AB092DC78B9E00022C28 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		11F6AB102DC78B9E00022C28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		11F6AB112DC78B9E00022C28 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		11F6AB132DC78B9E00022C28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "mac-os-eye-correction/mac_os_eye_correction.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "oleksandr.mac-os-eye-correction";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		11F6AB142DC78B9E00022C28 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "mac-os-eye-correction/mac_os_eye_correction.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "oleksandr.mac-os-eye-correction";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		11F6AB162DC78B9E00022C28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "oleksandr.mac-os-eye-correctionTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mac-os-eye-correction.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/mac-os-eye-correction";
+			};
+			name = Debug;
+		};
+		11F6AB172DC78B9E00022C28 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "oleksandr.mac-os-eye-correctionTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mac-os-eye-correction.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/mac-os-eye-correction";
+			};
+			name = Release;
+		};
+		11F6AB192DC78B9E00022C28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "oleksandr.mac-os-eye-correctionUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "mac-os-eye-correction";
+			};
+			name = Debug;
+		};
+		11F6AB1A2DC78B9E00022C28 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "oleksandr.mac-os-eye-correctionUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "mac-os-eye-correction";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		11F6AAEB2DC78B9D00022C28 /* Build configuration list for PBXProject "mac-os-eye-correction" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F6AB102DC78B9E00022C28 /* Debug */,
+				11F6AB112DC78B9E00022C28 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F6AB122DC78B9E00022C28 /* Build configuration list for PBXNativeTarget "mac-os-eye-correction" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F6AB132DC78B9E00022C28 /* Debug */,
+				11F6AB142DC78B9E00022C28 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F6AB152DC78B9E00022C28 /* Build configuration list for PBXNativeTarget "mac-os-eye-correctionTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F6AB162DC78B9E00022C28 /* Debug */,
+				11F6AB172DC78B9E00022C28 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F6AB182DC78B9E00022C28 /* Build configuration list for PBXNativeTarget "mac-os-eye-correctionUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F6AB192DC78B9E00022C28 /* Debug */,
+				11F6AB1A2DC78B9E00022C28 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 11F6AAE82DC78B9D00022C28 /* Project object */;
+}
