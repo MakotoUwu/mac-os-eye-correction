@@ -1,2 +1,15 @@
 # Python virtual environment in the Models directory
 macos-eye-contact-tool/Models/.venv/
+
+# Build logs
+build_log.txt
+
+# macOS specific
+.DS_Store
+
+# Xcode specific
+# User specific Xcode project settings
+*.xcuserdatad/
+# Build directory
+build/
+DerivedData/
