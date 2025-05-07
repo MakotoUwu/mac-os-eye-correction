@@ -13,3 +13,18 @@ build_log.txt
 # Build directory
 build/
 DerivedData/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# General IDE/Editor folders
+.vscode/
+.idea/
+
+# Python distribution / packaging
+dist/
+*.egg-info/
+
+# Original downloaded TensorFlow models and generated artifacts (large files)
+macos-eye-contact-tool/Models/OriginalModel/
